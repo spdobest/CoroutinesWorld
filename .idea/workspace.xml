@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e0b0ed4-9021-4198-a36c-7b8063e94519" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sVrflpKAuxkEUxWn9Q8GAWQfOo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.ExceptionHandleExamplerKt">
+    <configuration name="AsyncExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinesBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="asyncExample.AsyncExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DispatcherExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinesBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="dispatchers.DispatcherExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandleExamplerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinesBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exceptionHandler.ExceptionHandleExamplerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinesBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="job.JobExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithCOntextExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="CoroutinesBasics.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="withCOntext.WithCOntextExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExceptionHandleExamplerKt" />
+        <item itemvalue="Application.WithCOntextExampleKt" />
+        <item itemvalue="Application.AsyncExampleKt" />
+        <item itemvalue="Application.DispatcherExampleKt" />
+        <item itemvalue="Application.JobExampleKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e0b0ed4-9021-4198-a36c-7b8063e94519" name="Default Changelist" comment="" />
+      <created>1620968706735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620968706735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="570" height="188" key="GridCell.Tab.0.bottom" timestamp="1621547298971">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state width="570" height="188" key="GridCell.Tab.0.bottom/0.25.1280.689@0.25.1280.689" timestamp="1621547298971" />
+    <state width="570" height="188" key="GridCell.Tab.0.center" timestamp="1621547298971">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state width="570" height="188" key="GridCell.Tab.0.center/0.25.1280.689@0.25.1280.689" timestamp="1621547298971" />
+    <state width="570" height="188" key="GridCell.Tab.0.left" timestamp="1621547298971">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state width="570" height="188" key="GridCell.Tab.0.left/0.25.1280.689@0.25.1280.689" timestamp="1621547298971" />
+    <state width="570" height="188" key="GridCell.Tab.0.right" timestamp="1621547298971">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state width="570" height="188" key="GridCell.Tab.0.right/0.25.1280.689@0.25.1280.689" timestamp="1621547298971" />
+    <state width="570" height="208" key="GridCell.Tab.1.bottom" timestamp="1621547298901">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state width="570" height="208" key="GridCell.Tab.1.bottom/0.25.1280.689@0.25.1280.689" timestamp="1621547298901" />
+    <state width="570" height="208" key="GridCell.Tab.1.center" timestamp="1621547298901">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state width="570" height="208" key="GridCell.Tab.1.center/0.25.1280.689@0.25.1280.689" timestamp="1621547298901" />
+    <state width="570" height="208" key="GridCell.Tab.1.left" timestamp="1621547298900">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state width="570" height="208" key="GridCell.Tab.1.left/0.25.1280.689@0.25.1280.689" timestamp="1621547298900" />
+    <state width="570" height="208" key="GridCell.Tab.1.right" timestamp="1621547298901">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state width="570" height="208" key="GridCell.Tab.1.right/0.25.1280.689@0.25.1280.689" timestamp="1621547298901" />
+    <state x="178" y="28" key="Maven.ArtifactSearchDialog" timestamp="1620968819099">
+      <screen x="0" y="25" width="1280" height="689" />
+    </state>
+    <state x="178" y="28" key="Maven.ArtifactSearchDialog/0.25.1280.689@0.25.1280.689" timestamp="1620968819099" />
+  </component>
+</project>
