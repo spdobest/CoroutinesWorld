@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e0b0ed4-9021-4198-a36c-7b8063e94519" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/model/LoginState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/model/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/model/UserDao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/model/UserDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoroutinesRoom/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoroutinesRoom/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoroutinesRoom/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/CoroutinesRoom/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/LoginFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/LoginFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/MainFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/MainFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/SignupFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/view/SignupFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/viewmodel/LoginViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/viewmodel/LoginViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/viewmodel/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/viewmodel/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/viewmodel/SignupViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CoroutinesRoom/app/src/main/java/com/devtides/coroutinesroom/viewmodel/SignupViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sVrflpKAuxkEUxWn9Q8GAWQfOo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
