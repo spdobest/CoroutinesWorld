@@ -5,38 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e0b0ed4-9021-4198-a36c-7b8063e94519" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exceptionHandlingInFlow/CatchOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exceptionHandlingInFlow/OnCOmpletionExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exceptionHandlingInFlow/TrycatchExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/flowExample/CreatingFLowUsingAsFlow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/flowExample/CreatingFlowUsingEmit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/flowExample/CreatingFlowUsingFLowOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/flowExample/FlowExample1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/flowExample/Properties1_flows_are_cold.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/flowExample/Properties2_flow_is_cancellable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/BufferExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/CombineExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/FilterOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/FlowOnExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/MapOperatorExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/OperatorExamle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/ReuceExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/TakeOperatorExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/TransformOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operators/ZipExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/channelExample/ChannelExample2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/channels/BufferChannelExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/channels/ChannelExample1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/channels/FanInExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/channels/FanOutExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/channels/PipeLineExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/channels/TikerChannelEample.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/20210602_5028161209028564060.compiler.options" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/CoroutinesBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/CoroutinesBasics.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
@@ -54,7 +46,9 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.s" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
@@ -119,67 +113,72 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.OnCOmpletionExampleKt">
-    <configuration name="CatchOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/channelExample" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TikerChannelEampleKt">
+    <configuration name="ChannelExample2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="CoroutinesBasics.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exceptionHandlingInFlow.CatchOperatorKt" />
+      <option name="MAIN_CLASS_NAME" value="channelExample.ChannelExample2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombineExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="FanInExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="CoroutinesBasics.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="operators.CombineExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="channels.FanInExampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnCOmpletionExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="FanOutExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="CoroutinesBasics.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exceptionHandlingInFlow.OnCOmpletionExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="channels.FanOutExampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrycatchExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="PipeLineExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="CoroutinesBasics.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exceptionHandlingInFlow.TrycatchExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="channels.PipeLineExampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZipExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="TikerChannelEampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="CoroutinesBasics.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="operators.ZipExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="channels.TikerChannelEampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OnCOmpletionExampleKt" />
-        <item itemvalue="Application.CatchOperatorKt" />
-        <item itemvalue="Application.TrycatchExampleKt" />
-        <item itemvalue="Application.CombineExampleKt" />
-        <item itemvalue="Application.ZipExampleKt" />
+        <item itemvalue="Application.TikerChannelEampleKt" />
+        <item itemvalue="Application.FanInExampleKt" />
+        <item itemvalue="Application.FanOutExampleKt" />
+        <item itemvalue="Application.PipeLineExampleKt" />
+        <item itemvalue="Application.ChannelExample2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -207,38 +206,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="935" height="192" key="GridCell.Tab.0.bottom" timestamp="1622667838255">
+    <state width="1234" height="192" key="GridCell.Tab.0.bottom" timestamp="1622971823179">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
-    <state width="935" height="192" key="GridCell.Tab.0.bottom/0.25.1280.689@0.25.1280.689" timestamp="1622667838255" />
-    <state width="935" height="192" key="GridCell.Tab.0.center" timestamp="1622667838255">
+    <state width="1234" height="192" key="GridCell.Tab.0.bottom/0.25.1280.689@0.25.1280.689" timestamp="1622971823179" />
+    <state width="1234" height="192" key="GridCell.Tab.0.center" timestamp="1622971823179">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
-    <state width="935" height="192" key="GridCell.Tab.0.center/0.25.1280.689@0.25.1280.689" timestamp="1622667838255" />
-    <state width="935" height="192" key="GridCell.Tab.0.left" timestamp="1622667838254">
+    <state width="1234" height="192" key="GridCell.Tab.0.center/0.25.1280.689@0.25.1280.689" timestamp="1622971823179" />
+    <state width="1234" height="192" key="GridCell.Tab.0.left" timestamp="1622971823179">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
-    <state width="935" height="192" key="GridCell.Tab.0.left/0.25.1280.689@0.25.1280.689" timestamp="1622667838254" />
-    <state width="935" height="192" key="GridCell.Tab.0.right" timestamp="1622667838255">
+    <state width="1234" height="192" key="GridCell.Tab.0.left/0.25.1280.689@0.25.1280.689" timestamp="1622971823179" />
+    <state width="1234" height="192" key="GridCell.Tab.0.right" timestamp="1622971823179">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
-    <state width="935" height="192" key="GridCell.Tab.0.right/0.25.1280.689@0.25.1280.689" timestamp="1622667838255" />
-    <state width="1238" height="208" key="GridCell.Tab.1.bottom" timestamp="1622633058297">
+    <state width="1234" height="192" key="GridCell.Tab.0.right/0.25.1280.689@0.25.1280.689" timestamp="1622971823179" />
+    <state width="1238" height="208" key="GridCell.Tab.1.bottom" timestamp="1622971814557">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
-    <state width="1238" height="208" key="GridCell.Tab.1.bottom/0.25.1280.689@0.25.1280.689" timestamp="1622633058297" />
-    <state width="1238" height="208" key="GridCell.Tab.1.center" timestamp="1622633058296">
+    <state width="1238" height="208" key="GridCell.Tab.1.bottom/0.25.1280.689@0.25.1280.689" timestamp="1622971814557" />
+    <state width="1238" height="208" key="GridCell.Tab.1.center" timestamp="1622971814556">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
-    <state width="1238" height="208" key="GridCell.Tab.1.center/0.25.1280.689@0.25.1280.689" timestamp="1622633058296" />
-    <state width="1238" height="208" key="GridCell.Tab.1.left" timestamp="1622633058296">
+    <state width="1238" height="208" key="GridCell.Tab.1.center/0.25.1280.689@0.25.1280.689" timestamp="1622971814556" />
+    <state width="1238" height="208" key="GridCell.Tab.1.left" timestamp="1622971814556">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
-    <state width="1238" height="208" key="GridCell.Tab.1.left/0.25.1280.689@0.25.1280.689" timestamp="1622633058296" />
-    <state width="1238" height="208" key="GridCell.Tab.1.right" timestamp="1622633058297">
+    <state width="1238" height="208" key="GridCell.Tab.1.left/0.25.1280.689@0.25.1280.689" timestamp="1622971814556" />
+    <state width="1238" height="208" key="GridCell.Tab.1.right" timestamp="1622971814556">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
-    <state width="1238" height="208" key="GridCell.Tab.1.right/0.25.1280.689@0.25.1280.689" timestamp="1622633058297" />
+    <state width="1238" height="208" key="GridCell.Tab.1.right/0.25.1280.689@0.25.1280.689" timestamp="1622971814556" />
     <state x="178" y="28" key="Maven.ArtifactSearchDialog" timestamp="1620968819099">
       <screen x="0" y="25" width="1280" height="689" />
     </state>
